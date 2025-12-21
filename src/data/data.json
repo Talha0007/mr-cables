@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "We are a Networking Company",
+    "paragraph": "Delivering fast, secure, and reliable internet connectivity to keep homes and businesses seamlessly connected at all times."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Dish Installation",
+      "largeImage": "img/portfolio/01-large.jpeg",
+      "smallImage": "img/portfolio/01-large.jpg"
+    },
+    {
+      "title": "Networking Cables",
+      "largeImage": "img/portfolio/02-large.jpeg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Booster Network",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Booster Network",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Easy Network Access",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Booster Connections",
+      "largeImage": "img/portfolio/06-large.jpeg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Network Tower",
+      "largeImage": "img/portfolio/07-large.jpeg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Dish Installation",
+      "largeImage": "img/portfolio/08-large.jpeg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    }
+    
+  ],
+  "Services": [
+  {
+    "icon": "fa fa-wifi",
+    "name": "Home Broadband Internet",
+    "text": "High-speed and reliable broadband internet for homes, enabling smooth streaming, browsing, and online communication."
+  },
+  {
+    "icon": "fa fa-building",
+    "name": "Business Internet Solutions",
+    "text": "Dedicated and scalable internet solutions designed to support business operations, video conferencing, and cloud services."
+  },
+  {
+    "icon": "fa fa-cloud",
+    "name": "Cloud & Hosting Connectivity",
+    "text": "Optimized internet connectivity for cloud platforms, data hosting, and remote access with maximum uptime."
+  },
+  {
+    "icon": "fa fa-shield",
+    "name": "Network Security Services",
+    "text": "Comprehensive network security solutions to protect customers from cyber threats, malware, and unauthorized access."
+  },
+  {
+    "icon": "fa fa-headphones",
+    "name": "Managed Technical Support",
+    "text": "Proactive monitoring and expert technical support to ensure uninterrupted service and fast issue resolution."
+  },
+  {
+    "icon": "fa fa-line-chart",
+    "name": "Bandwidth Management",
+    "text": "Flexible bandwidth plans and traffic management to deliver consistent speed and performance during peak usage."
+  }
+],
+
+  "Testimonials": [
+  {
+    "img": "img/testimonials/sultan.png",
+    "text": "\"The internet speed and stability have been excellent. Streaming, work calls, and online browsing run smoothly without any interruptions.\"",
+    "name": "Sultan Murtzai"
+  },
+  {
+    "img": "img/testimonials/adeel.jpg",
+    "text": "\"Reliable service and fast support response. Whenever there is an issue, their technical team resolves it quickly and professionally.\"",
+    "name": "Sh. Adeel Ishaq"
+  },
+  {
+    "img": "img/testimonials/sajid.png",
+    "text": "\"Since switching to this network, our business connectivity has improved significantly. Speeds are consistent even during peak hours.\"",
+    "name": "Sajid Shabir Ansari"
+  },
+  {
+    "img": "img/testimonials/usman.jpg",
+    "text": "\"Affordable plans with great performance. The connection is stable, and customer support is always available when needed.\"",
+    "name": "Rana Usman"
+  },
+  {
+    "img": "img/testimonials/05.jpg",
+    "text": "\"Excellent internet service for both work and entertainment. Downloads are fast, and online meetings run without lag.\"",
+    "name": "Bilal Ahmed"
+  },
+  {
+    "img": "img/testimonials/usama.png",
+    "text": "\"Very satisfied with the service quality. Strong coverage, reliable speed, and a professional support team.\"",
+    "name": "Usama Sheikh"
+  }
+],
+
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Musharaf Iqbal",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mirza Raheel",
+      "job": "MD"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Network Operator"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Electrician"
+    }
+  ],
+  "Contact": {
+    "address": "Shukar Allah Street, Near Noor Ahmad Road, Kot Radha Kishan, Kasur",
+    "phone": "+92 300 488 4733",
+    "phone1": "+92 300 442 8818",
+    "email": "mrcablenetworkkrk@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+  {
+    "icon": "fa fa-bolt",
+    "title": "High-Speed Connectivity",
+    "text": "Ultra-fast internet performance built for streaming, gaming, and uninterrupted business operations."
+  },
+  {
+    "icon": "fa fa-shield",
+    "title": "Secure Network Protection",
+    "text": "Advanced security measures protect your data, privacy, and network from online threats."
+  },
+  {
+    "icon": "fa fa-wifi",
+    "title": "Wide Coverage & Stability",
+    "text": "Reliable and consistent internet coverage across homes, offices, and commercial environments."
+  },
+  {
+    "icon": "fa fa-headphones",
+    "title": "24/7 Technical Support",
+    "text": "Round-the-clock expert support ensures quick issue resolution and continuous connectivity."
+  }
+]
+
+}

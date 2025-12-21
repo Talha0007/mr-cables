@@ -1,0 +1,291 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+.navbar-brand {
+  padding: 0 15px;
+}
+
+.navbar-brand img {
+  max-height: 100px;
+}
+
+.about-section {
+  padding: 80px 20px;
+  background: #f9fbfd;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  align-items: center;
+}
+
+.about-tag {
+  display: inline-block;
+  color: #007bff;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.about-content h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.about-content p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.about-stats {
+  display: flex;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.about-stats h3 {
+  font-size: 28px;
+  color: #007bff;
+  margin-bottom: 5px;
+}
+
+.about-stats span {
+  font-size: 14px;
+  color: #666;
+}
+
+.about-image img {
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-content h2 {
+    font-size: 30px;
+  }
+
+  .about-stats {
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+
+.ceo-section {
+  padding: 80px 20px;
+  background: #ffffff;
+}
+
+.ceo-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 50px;
+  align-items: center;
+}
+
+.ceo-image img {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 16px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.ceo-tag {
+  display: inline-block;
+  color: #007bff;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.ceo-content h2 {
+  font-size: 32px;
+  color: #222;
+  margin-bottom: 20px;
+}
+
+.ceo-content p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.ceo-signature {
+  margin-top: 30px;
+}
+
+.ceo-signature h4 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #222;
+}
+
+.ceo-signature span {
+  font-size: 14px;
+  color: #666;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .ceo-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .ceo-image img {
+    margin: auto;
+  }
+}
+
+
+.md-section {
+  padding: 90px 20px;
+  background: #f4f7fb;
+}
+
+.md-header {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 50px;
+}
+
+.md-tag {
+  display: inline-block;
+  color: #0d6efd;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.md-header h2 {
+  font-size: 34px;
+  color: #1f2937;
+}
+
+.md-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.md-content p {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #4b5563;
+  margin-bottom: 18px;
+}
+
+.md-signature {
+  margin-top: 35px;
+  border-left: 4px solid #0d6efd;
+  padding-left: 15px;
+}
+
+.md-signature h4 {
+  font-size: 18px;
+  margin-bottom: 4px;
+  color: #111827;
+}
+
+.md-signature span {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.md-image img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 50%;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .md-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .md-signature {
+    border-left: none;
+    border-top: 4px solid #0d6efd;
+    padding-left: 0;
+    padding-top: 15px;
+  }
+
+  .md-image img {
+    margin: auto;
+  }
+}
+
+.privacy-policy {
+  padding: 80px 20px;
+  background: #f9f9f9;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.privacy-policy .container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.privacy-policy h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #111;
+  text-align: center;
+}
+
+.privacy-policy h2 {
+  font-size: 24px;
+  color: #007bff;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.privacy-policy p {
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 15px;
+}
+
+.privacy-policy ul {
+  list-style: disc inside;
+  margin-bottom: 15px;
+}
+
+.privacy-policy ul li {
+  margin-bottom: 10px;
+}
