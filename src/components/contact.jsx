@@ -115,7 +115,15 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-map-marker"></i> Address
                 </span>
-                {props.data ? props.data.address : "loading"}
+                <a
+                  // href="https://www.google.com/maps?q=31.173198285224174,74.10090469672753"
+                  href="https://www.google.com/maps/search/?api=1&query=Shukar+Allah+Street+Near+Noor+Ahmad+Road+Kot+Radha+Kishan+Kasur"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ textDecoration: "none", color: "white" }}
+                >
+                  📍{props.data ? props.data.address : "loading"}
+                </a>
               </p>
             </div>
             <div className="contact-item">
@@ -142,15 +150,19 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a
+                      href={props.data ? props.data.facebook : "/"}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.twitter : "/"}>
                       <i className="fa fa-twitter"></i>
                     </a>
-                  </li>
+                  </li> */}
                   <li>
                     <a href={props.data ? props.data.youtube : "/"}>
                       <i className="fa fa-youtube"></i>

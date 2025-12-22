@@ -73,10 +73,11 @@
     "text": "Dedicated and scalable internet solutions designed to support business operations, video conferencing, and cloud services."
   },
   {
-    "icon": "fa fa-cloud",
-    "name": "Cloud & Hosting Connectivity",
-    "text": "Optimized internet connectivity for cloud platforms, data hosting, and remote access with maximum uptime."
-  },
+  "icon": "fa fa-television",
+  "name": "Digital TV Services",
+  "text": "High-quality digital TV services with crystal-clear channels, reliable streaming, and uninterrupted entertainment."
+},
+
   {
     "icon": "fa fa-shield",
     "name": "Network Security Services",
@@ -156,7 +157,7 @@
     "email": "mrcablenetworkkrk@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "https://www.youtube.com/@mrcablenetworkkrk"
   },
   "Features": [
   {
