@@ -73,9 +73,9 @@
     "text": "Dedicated and scalable internet solutions designed to support business operations, video conferencing, and cloud services."
   },
   {
-    "icon": "fa fa-cloud",
-    "name": "Cloud & Hosting Connectivity",
-    "text": "Optimized internet connectivity for cloud platforms, data hosting, and remote access with maximum uptime."
+    "icon": "fa fa-desktop",
+    "name": "TV Cable",
+    "text": "High-quality digital TV Cable services with crystal-clear channels, reliable streaming, and uninterrupted entertainment."
   },
   {
     "icon": "fa fa-shield",
@@ -154,7 +154,7 @@
     "phone": "+92 300 488 4733",
     "phone1": "+92 300 442 8818",
     "email": "mrcablenetworkkrk@gmail.com",
-    "facebook": "fb.com",
+    "facebook": "https://www.facebook.com/M.R.CableNetwork",
     "twitter": "twitter.com",
     "youtube": "https://www.youtube.com/@mrcablenetworkkrk"
   },

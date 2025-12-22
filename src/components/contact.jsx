@@ -152,8 +152,8 @@ export const Contact = (props) => {
                   <li>
                     <a
                       href={props.data ? props.data.facebook : "/"}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      // target="_blank"
+                      // rel="noopener noreferrer"
                     >
                       <i className="fa fa-facebook"></i>
                     </a>
