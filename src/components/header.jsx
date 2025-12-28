@@ -9,7 +9,7 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <h2 style={{ color: "lightgray" }}>
-                  M.R. Cable & Internet Network
+                  We are a Networking Company
                 </h2>
                 <h1>
                   {props.data ? props.data.title : "Loading"}
